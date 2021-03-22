@@ -1,2 +1,9 @@
-# bike-rentals
-Develop of a linear regression model, a decision tree model and a random forest model to predict the number of persons renting a bike at a given hour.
+# Predicting Bike Rentals
+
+In this project the following models are developed:
+
+  - Linear Regression Model
+  - Decision Tree Model
+  - Random Forest Model
+
+The objective is to predict the total number of bikes people rented in a given hour. For this, we will use the data from a communal bike sharing station located in Washington D.C., US.
